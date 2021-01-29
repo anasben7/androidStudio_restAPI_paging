@@ -16,10 +16,9 @@ Technology Used
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48560744/106301449-05ddd400-6258-11eb-9d76-9f4f02f93b99.png" width="200">
-  <img src="https://user-images.githubusercontent.com/48560744/106302020-b350e780-6258-11eb-83ae-1a30fa7a3ef7.png" width="200">
+  <img src="https://user-images.githubusercontent.com/48560744/106302020-b350e780-6258-11eb-83ae-1a30fa7a3ef7.png" >
 </p>
 
-<p align="center">
   
 </p>
 
