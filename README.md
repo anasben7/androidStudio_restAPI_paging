@@ -13,5 +13,5 @@ Technology Used
 
 
 
-![](https://user-images.githubusercontent.com/48560744/106301449-05ddd400-6258-11eb-9d76-9f4f02f93b99.png) | width=100
+![](https://user-images.githubusercontent.com/48560744/106301449-05ddd400-6258-11eb-9d76-9f4f02f93b99.png | width=100) 
 
